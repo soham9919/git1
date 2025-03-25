@@ -1,2 +1,5 @@
 Hello Everyone 
 How are you?
+
+lets learn some concepts of Machine Learning.
+linear Regression
