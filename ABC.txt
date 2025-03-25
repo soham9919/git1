@@ -5,3 +5,5 @@ lets learn some concepts of Machine Learning.
 linear Regression
 datamites
 soham
+Kulkarni 
+pune maharashtra 
